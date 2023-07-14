@@ -124,5 +124,26 @@
     "quadrant": "Techniques",
     "isNew": "FALSE",
     "description": "API Gateway for guard our services"
+  },
+  {
+    "name": "Python",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Python and its frameworks (FastAPI, Django, etc)"
+  },
+  {
+    "name": "Application Performence Monitoring",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Includes NewRelic, Sentry, Grafana, etc"
+  },
+  {
+    "name": "OpenTelemetry",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Open source standard for telemetry & monitoring"
   }
 ]

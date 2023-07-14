@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Laravel",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Powerfull and have much library also supported by communinty"
+  },
+  {
+    "name": "Echo Framework",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "PostgreSQL",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Strong relational database"
+  },
+  {
+    "name": "Nats",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "TRUE",
+    "description": "Easy setup and more simplify"
+  },
+  {
+    "name": "NodeJS",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Easy to use and suppport async"
+  },
+  {
+    "name": "Golang",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Fast and structured, but need time to be expert"
+  },
+  {
+    "name": "Graphql",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Strong type, auto generate api document and client can filter what will used"
+  },
+  {
+    "name": "Elasticsearch",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Goof for complex search also good on performannce"
+  },
+  {
+    "name": "MongoDB",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Easy to use but not good in readable data and traditional relational data"
+  },
+  {
+    "name": "Logrus",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Recommended for logging in golang"
+  },
+  {
+    "name": "Redis",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Easy to use for caching, high impact less effort to improve performance"
+  },
+  {
+    "name": "AWS",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Well documentation and easy implemented (ex: golang)"
+  },
+  {
+    "name": "Docker",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "All backend application wrapped by docker images"
+  },
+  {
+    "name": "Codeigniter",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Support, documentation and community less than laravel"
+  },
+  {
+    "name": "Unleash",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": "Easy way for using feature flag"
+  },
+  {
+    "name": "MySQL",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Simple to use and use it if not complex relational database"
+  },
+  {
+    "name": "Microservice Architecture",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Microservice for orchestration our services"
+  },
+  {
+    "name": "API Gateway",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "API Gateway for guard our services"
+  }
+]

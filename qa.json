@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Javascript",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Powerfull and have much library also supported by communinty"
+  },
+  {
+    "name": "Python 3",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "NEW",
+    "description": "Powerfull and have much library also supported by communinty"
+  },
+  {
+    "name": "Cypress",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Pytest",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "NEW",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Maestro Mobile",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "NEW",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "K6",
+    "ring": "trial",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "NEW",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Jmeter",
+    "ring": "hold",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Charles Chucker Log",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "NEW",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Qase.io",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Click Up",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Postman",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Firebase",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Apps Tester",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Testflight",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Browserstack",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": "NEW",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Web",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Android",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "iOS",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Exploratory Testing",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Blackbox Testing",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Greybox Testing",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "NEW",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Whitebox Testing",
+    "ring": "hold",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Boundary Value Analysis",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Decision Table Testing",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  }, 
+  {
+    "name": "Decision Table Testing",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Regression Testing",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Sanity Testing",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "NEW",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Smoke Testing",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Decision Table Testing",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Error Guessing",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  },
+  {
+    "name": "Load/Perfomance Testing",
+    "ring": "trial",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "description": "Well documentation and most of requirement of building web application is provided on this framework"
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Javascript",
+    "name": "Javascript ES6",
     "ring": "adopt",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
@@ -183,7 +183,7 @@
   },
   {
     "name": "Sanity Testing",
-    "ring": "trial",
+    "ring": "adopt",
     "quadrant": "Techniques",
     "isNew": "NEW",
     "description": "Well documentation and most of requirement of building web application is provided on this framework"
@@ -191,13 +191,6 @@
   {
     "name": "Smoke Testing",
     "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "FALSE",
-    "description": "Well documentation and most of requirement of building web application is provided on this framework"
-  },
-  {
-    "name": "Decision Table Testing",
-    "ring": "trial",
     "quadrant": "Techniques",
     "isNew": "FALSE",
     "description": "Well documentation and most of requirement of building web application is provided on this framework"

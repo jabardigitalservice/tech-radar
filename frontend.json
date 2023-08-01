@@ -29,14 +29,14 @@
   },
   {
     "name": "Vue 2",
-    "ring": "adopt",
+    "ring": "hold",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
     "description": "Progressive framework for building user interfaces"
   },
   {
     "name": "Nuxt 2",
-    "ring": "adopt",
+    "ring": "hold",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
     "description": "Intuitive Vue framework for building server-rendered site"

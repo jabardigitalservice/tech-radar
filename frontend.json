@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Javascript",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Powerfull and have much library also supported by community"
+  },
+  {
+    "name": "Typescript",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Statically typed Javascript"
+  },
+  {
+    "name": "HTML 5",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Markup language used for structuring and presenting content on the World Wide Web"
+  },
+  {
+    "name": "CSS 3",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML"
+  },
+  {
+    "name": "Vue 2",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Progressive framework for building user interfaces"
+  },
+  {
+    "name": "Nuxt 2",
+    "ring": "adopt",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Intuitive Vue framework for building server-rendered site"
+  },
+  {
+    "name": "Vuex",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "State management tools for Vue and Nuxt framework"
+  },
+  {
+    "name": "Tailwind CSS",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "A utility-first CSS framework"
+  },
+  {
+    "name": "Vuetify",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "UI Library with beautifully handcrafted Vue Components"
+  },
+  {
+    "name": "ESLint",
+    "ring": "adopt",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "The pluggable linting utility for JavaScript and JSX"
+  },
+  {
+    "name": "Prettier",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "An opinionated code formatter"
+  },
+  {
+    "name": "New Relic",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Error logging and monitoring platforms"
+  },
+  {
+    "name": "SonarQube",
+    "ring": "trial",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Tool for analyze code quality and security"
+  },
+  {
+    "name": "React",
+    "ring": "assess",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "The library for web and native user interfaces"
+  },
+  {
+    "name": "Next Js",
+    "ring": "assess",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "React framework for building server-rendered site"
+  },
+  {
+    "name": "Vue 3",
+    "ring": "assess",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Progressive framework for building user interfaces"
+  },
+  {
+    "name": "Nuxt 3",
+    "ring": "assess",
+    "quadrant": "Languages and Frameworks",
+    "isNew": "FALSE",
+    "description": "Intuitive Vue framework for building server-rendered site"
+  },
+  {
+    "name": "Pinia",
+    "ring": "assess",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "The intuitive store for Vue.js"
+  },
+  {
+    "name": "Netlify",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "description": "Easy-to-use and powerful site hosting"
+  },
+  {
+    "name": "Jabar Design System UI Library",
+    "ring": "hold",
+    "quadrant": "Tools",
+    "isNew": "FALSE",
+    "description": "Jabar Design System built using Vue 2"
+  }
+]
